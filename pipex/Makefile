@@ -14,7 +14,7 @@ $(LIBFT):
 	$(MAKE) -C ./libft
 
 $(NAME): 	$(OBJS) $(LIBFT)
-	$(CC) $(CFLAGS) -o $(NAME) $(OBJS) $(LIBFT)
+	$(CC) $(CFLAGS) $(OBJS) $(LIBFT) -o $(NAME)
 	@echo "\033[0;32mDone!"
 
 clean: 
