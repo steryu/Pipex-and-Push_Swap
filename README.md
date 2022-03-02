@@ -1,2 +1,2 @@
 # codam
-some of my early project done at codam.
+some of my early projects done at codam.
