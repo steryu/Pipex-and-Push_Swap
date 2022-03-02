@@ -1,2 +1,2 @@
 # codam
-my codam codes
+some of my early project done at codam.
