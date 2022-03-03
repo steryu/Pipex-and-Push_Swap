@@ -1,5 +1,5 @@
 # codam
-<img width="598" alt="libft" src="https://user-images.githubusercontent.com/95487148/156527154-e53eb2b2-d8bc-4232-98e5-4297ef7489c5.png">
+<img width="400" alt="libft" src="https://user-images.githubusercontent.com/95487148/156527154-e53eb2b2-d8bc-4232-98e5-4297ef7489c5.png">
 
 
 <img width="598" alt="ft_printf" src="https://user-images.githubusercontent.com/95487148/156527570-194b3e4c-4800-4c51-a654-8ac077aabd12.png">
