@@ -1,4 +1,4 @@
-# codam
+# pipex and push_swap
 
 <img width="500" alt="pipex" src="https://user-images.githubusercontent.com/95487148/156527597-9f93def8-5e64-4440-a3a1-52cea4e95828.png">
 
